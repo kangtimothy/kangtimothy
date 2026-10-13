@@ -1,3 +1,4 @@
+
 # Timothy Y. Kang
 
 **Institutional AI Governance | Decision Authority | Formal Methods**
@@ -10,7 +11,7 @@ My research connects **institutional governance theory, formal methods, computat
 
 - **Institutional Judgment Governance (IJG)** — judgment, reliance, legitimate decision authority, and accountability
 - **Organizational Decision Governance (ODG)** — institutional oversight, governance architecture, and organizational decision processes
-- **Reliance Architecture (RA)** — operational mechanisms for governing human–AI reliance and authorization
+- **Reliance Architecture (RA)** — operational mechanisms for governing human–AI reliance, including reliance authorization
 - **Agentic and Embodied AI** — delegated authority, traceability, assurance, and human control
 - **Formal and Computational Methods** — mathematical modeling, state-transition systems, model checking, simulation, and reproducible evaluation
 
@@ -18,7 +19,7 @@ My research connects **institutional governance theory, formal methods, computat
 
 - **Institutional Judgment Governance (IJG)** — [SSRN Working Paper](https://ssrn.com/abstract=7339378)
 - **Organizational Decision Governance (ODG)** — [SSRN Working Paper](https://ssrn.com/abstract=7353318)
-- **Reliance Architecture / Reliance Authorization (RA)** — [SSRN Working Paper](https://ssrn.com/abstract=6287358)
+- **Reliance Authorization (RA)** — [SSRN Working Paper](https://ssrn.com/abstract=6287358)
 
 ## Technical Research
 
@@ -28,10 +29,10 @@ Current experimental work includes:
 
 - Formal specifications and bounded state-space exploration
 - Python-based policy and authority verification
-- TLA+ modeling and transition-system correspondence
+- TLA+ modeling and bounded transition-system correspondence checks
 - Delegated authority and separation-of-duties mechanisms
 - Decision provenance, evidence integrity, and reproducibility controls
-- Synthetic evaluation and empirical validation methodologies
+- Synthetic evaluation and protocols for future empirical validation
 
 These are research-stage implementations. Formal verification results are relative to specified models and assumptions and do not independently establish real-world institutional assurance.
 
